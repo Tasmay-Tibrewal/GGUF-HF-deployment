@@ -9,6 +9,8 @@ HF Space Link: `https://huggingface.co/spaces/Tasmay-Tib/sarvam-ai-entity-normal
 
 This runs for completely free, using llama.cpp.
 
+Check the folder `sarvam-ai-entity-normalisation-non-git` for code, the folder `sarvam-ai-entity-normalisation` is the actual HF spaces repo and may not be viewable in GitHub. Both the directories have the same content but one is with `git` as a submodule and the other is a simple dir for viewing purposes on GitHub.
+
 I have not-used `llama.cpp's` python binding `llama-cpp-python` since it is not optimal. I have served the model using `llama-cpp's: llama-server`, which is optimal and more efficient.
 
 Deployed the app using streamlit, and it is a bit tough for HF free user's to control the build and installations using python. Thus this repo.
