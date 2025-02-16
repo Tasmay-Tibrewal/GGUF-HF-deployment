@@ -1,0 +1,3 @@
+[submodule "sarvam-ai-entity-normalisation"]
+	path = sarvam-ai-entity-normalisation
+	url = https://huggingface.co/spaces/Tasmay-Tib/sarvam-ai-entity-normalisation
